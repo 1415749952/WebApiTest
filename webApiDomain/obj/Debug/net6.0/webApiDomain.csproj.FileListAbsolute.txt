@@ -1,0 +1,12 @@
+C:\RiderProjects\WebApiTest\webApiDomain\bin\Debug\net6.0\webApiDomain.deps.json
+C:\RiderProjects\WebApiTest\webApiDomain\bin\Debug\net6.0\webApiDomain.dll
+C:\RiderProjects\WebApiTest\webApiDomain\bin\Debug\net6.0\ref\webApiDomain.dll
+C:\RiderProjects\WebApiTest\webApiDomain\bin\Debug\net6.0\webApiDomain.pdb
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\webApiDomain.csproj.AssemblyReference.cache
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\webApiDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\webApiDomain.AssemblyInfoInputs.cache
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\webApiDomain.AssemblyInfo.cs
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\webApiDomain.csproj.CoreCompileInputs.cache
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\webApiDomain.dll
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\ref\webApiDomain.dll
+C:\RiderProjects\WebApiTest\webApiDomain\obj\Debug\net6.0\webApiDomain.pdb

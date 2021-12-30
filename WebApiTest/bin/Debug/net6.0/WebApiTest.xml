@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiTest</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiTest.Controllers.StudentController.addStudent(webApiDomain.ao.StudentAo)">
+            <summary>
+            添加学生
+            </summary>
+            <param name="studentAo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiTest.Controllers.StudentController.deleteStudent(System.String)">
+            <summary>
+            删除一个学生
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiTest.Controllers.StudentController.updateStudent(System.String,webApiDomain.ao.StudentAo)">
+            <summary>
+            修改学生信息
+            </summary>
+            <param name="id"></param>
+            <param name="studentAo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiTest.Controllers.StudentController.selectStudent(webApiDomain.bo.StudentQo)">
+            <summary>
+            查询学生
+            </summary>
+            <param name="studentQo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiTest.Controllers.StudentController.selectStudentDetail(System.String)">
+            <summary>
+            查询一个学生详细信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

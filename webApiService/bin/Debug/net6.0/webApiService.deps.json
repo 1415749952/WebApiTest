@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "webApiService/1.0.0": {
+        "dependencies": {
+          "webApiDomain": "1.0.0"
+        },
+        "runtime": {
+          "webApiService.dll": {}
+        }
+      },
+      "webApiDomain/1.0.0": {
+        "runtime": {
+          "webApiDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "webApiService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webApiDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

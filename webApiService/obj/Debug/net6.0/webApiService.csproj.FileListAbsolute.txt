@@ -1,0 +1,15 @@
+C:\RiderProjects\WebApiTest\webApiService\bin\Debug\net6.0\webApiService.deps.json
+C:\RiderProjects\WebApiTest\webApiService\bin\Debug\net6.0\webApiService.dll
+C:\RiderProjects\WebApiTest\webApiService\bin\Debug\net6.0\ref\webApiService.dll
+C:\RiderProjects\WebApiTest\webApiService\bin\Debug\net6.0\webApiService.pdb
+C:\RiderProjects\WebApiTest\webApiService\bin\Debug\net6.0\webApiDomain.dll
+C:\RiderProjects\WebApiTest\webApiService\bin\Debug\net6.0\webApiDomain.pdb
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.csproj.AssemblyReference.cache
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.AssemblyInfoInputs.cache
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.AssemblyInfo.cs
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.csproj.CoreCompileInputs.cache
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.csproj.CopyComplete
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.dll
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\ref\webApiService.dll
+C:\RiderProjects\WebApiTest\webApiService\obj\Debug\net6.0\webApiService.pdb
